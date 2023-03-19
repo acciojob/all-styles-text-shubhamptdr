@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+.container {
+  width: 200px;
+  background-color: purple;
+  padding: 10px;
+  color: white;
+  font-size: 10px;
+  border-left: 5px solid green;
+}
